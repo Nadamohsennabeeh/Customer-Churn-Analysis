@@ -3,7 +3,7 @@
 ![WhatsApp Image 2026-02-01 at 11 06 06 AM](https://github.com/user-attachments/assets/d5cea85f-c888-4eed-a5dc-9b4df1ba26aa)
 ![WhatsApp Image 2026-02-01 at 11 06 24 AM](https://github.com/user-attachments/assets/0b4e9d8e-0e00-4cbf-8444-338c401b3113)
 
-This Power BI project analyzes customer attrition data to identify patterns and reasons behind churn. The dashboard provides clear visuals to help businesses understand retention through demographic and service-related factors.
+This Power BI project analyzes customer loss data to identify patterns and reasons behind churn. The dashboard provides clear visuals to help businesses understand retention through demographic and service-related factors.
 
 Data Dimensions (Inside the Report)
 The analysis is built around the following actual data fields:
